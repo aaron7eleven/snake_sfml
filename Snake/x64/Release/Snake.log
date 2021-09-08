@@ -1,0 +1,19 @@
+﻿  Game.cpp
+C:\C++\Snake_sfml\Snake\Snake\Snake.h(21,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\C++\Snake_sfml\Snake\Snake\TextureHolder.h(14,17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\C++\Snake_sfml\Snake\Snake\SoundHolder.h(14,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\C++\Snake_sfml\Snake\Snake\Game.cpp(99,57): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\C++\Snake_sfml\Snake\Snake\Game.cpp(99,43): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  Snake.cpp
+C:\C++\Snake_sfml\Snake\Snake\Snake.h(21,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  UI.cpp
+  main.cpp
+C:\C++\Snake_sfml\Snake\Snake\Snake.h(21,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\C++\Snake_sfml\Snake\Snake\TextureHolder.h(14,17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\C++\Snake_sfml\Snake\Snake\SoundHolder.h(14,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  31 of 539 functions ( 5.8%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Snake.vcxproj -> C:\C++\Snake_sfml\Snake\x64\Release\Snake.exe

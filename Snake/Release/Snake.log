@@ -1,0 +1,20 @@
+﻿  Animation.cpp
+C:\C++\Snake_sfml\Snake\Snake\Animation.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Collider.cpp
+C:\C++\Snake_sfml\Snake\Snake\Collider.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Game.cpp
+C:\C++\Snake_sfml\Snake\Snake\Game.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Item.cpp
+C:\C++\Snake_sfml\Snake\Snake\Item.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+C:\C++\Snake_sfml\Snake\Snake\main.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+C:\C++\Snake_sfml\Snake\Snake\Player.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Snake.cpp
+C:\C++\Snake_sfml\Snake\Snake\Snake.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  TextureHolder.cpp
+C:\C++\Snake_sfml\Snake\Snake\TextureHolder.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Wall.cpp
+C:\C++\Snake_sfml\Snake\Snake\Wall.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Window.cpp
+C:\C++\Snake_sfml\Snake\Snake\Window.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
